@@ -1,1 +1,1 @@
-# teste_tecnico_verzel_qa_junior
+# Teste Técnico Verzel - QA Júnior
