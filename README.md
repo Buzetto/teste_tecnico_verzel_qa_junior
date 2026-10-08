@@ -13,9 +13,10 @@ Validação da entrega **cupom de desconto e frete grátis** (versão 2.3.0) da 
 | Item | Quantidade |
 |---|---|
 | Cenários planejados | 30 |
-| Aprovados | __ |
-| Reprovados (com bug) | __ |
-| Bugs registrados | __ |
+| Aprovados | 28 |
+| Reprovados (com bug) | 2 |
+| Bugs registrados | 2 |
+| Melhorias registradas | 2 |
 | Cenários automatizados com Playwright | 10 |
 
 ## Bugs encontrados
